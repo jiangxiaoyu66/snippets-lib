@@ -1,9 +1,10 @@
 <template>
   <div class="home">
-    <el-container>
+    <!-- <el-container>
       <el-aside width="200px">Aside</el-aside>
       <el-main>Main</el-main>
-    </el-container>
+    </el-container> -->
+    11111
   </div>
 </template>
 
@@ -12,6 +13,7 @@
 export default {
   name: 'Home',
   components: {
+    
   }
 }
 </script>
