@@ -1,6 +1,7 @@
-import { ElButton } from 'element-plus'
-import 'element-plus/lib/theme-chalk/index.css';
+// // import { ElButton } from 'element-plus'
+// import ElementPlus from 'element-plus';
+// import 'element-plus/lib/theme-chalk/index.css';
 
-export default (app) => {
-  app.use(ElButton)
-}
+// export default (app) => {
+//   app.use(ElementPlus)
+// }

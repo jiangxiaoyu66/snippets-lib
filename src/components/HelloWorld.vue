@@ -1,3 +1,3 @@
 <template>
-  1111
+  this is hello world page!
 </template>
